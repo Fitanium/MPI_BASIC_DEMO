@@ -1,0 +1,2 @@
+# MPI_BASIC_DEMO
+MPI基础程序设计示例
